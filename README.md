@@ -1,2 +1,2 @@
 # Kinect_Game
-Python Kinect Game Galaxy Jet Project
+Python Kinect Game Galaxy Legend Project
